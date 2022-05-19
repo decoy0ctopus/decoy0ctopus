@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Patrick
+- 👋 Hi, I’m ...
 - 👀 I’m interested in edge AI
 - 🌱 I’m currently learning machine learning on ESP32
 
